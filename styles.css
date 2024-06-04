@@ -1,0 +1,59 @@
+html {
+  font-family: "Sora", sans-serif;
+}
+
+body {
+    background-color: #FAFAF9;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 336px;
+    height: 100%;
+    background-color: #FFFFFF;
+    margin: 164px auto;
+    box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+    padding: 16px;
+    border-radius: 10px;
+}
+
+.container img {
+    width: 336px;
+    height: 152px;
+    border-radius: 10px;
+}
+
+.design {
+    color: #883AE1;
+    background-color: #E6D6FC;
+    border-radius: 20px;
+    padding: 6px;
+    width: 25%;
+    text-align: center;
+    font-size: 10px;
+}
+
+h2 {
+    color: #20293A;
+    font-size: 18px;
+}
+
+.parrafo {
+    font-size: 14px;
+    color: #6C727F;
+    margin-bottom: 20px;
+}
+
+.author {
+    font-size: 0.75rem;
+    color: #6C727F;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+hr {
+    width: 100%;
+    color: #E5EAF0;
+}
